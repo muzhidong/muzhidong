@@ -8,7 +8,8 @@
   ![微信公众号](./wechatOfficialAccount.png)
 -->
 
->>整合项目模板、组件、工具，以便复用。
+
+> 下面是个人经验沉淀的前端模板、组件、工具，以便复用。
 
 - [项目模板脚手架👏](https://github.com/muzhidong/pj-cli)
 
