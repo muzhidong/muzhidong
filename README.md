@@ -20,3 +20,16 @@
 - [组件脚手架](https://github.com/muzhidong/component-cli)
 
 - [组件项目](https://github.com/muzhidong/lib-components)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme:dark)"
+    srcset="https://raw.githubusercontent.com/muzhidong/muzhidong/output/github-contribution-grid-snake-dark.svg">
+  <source 
+    media="(prefers-color-scheme:light)" 
+    srcset="https://raw.githubusercontent.com/muzhidong/muzhidong/output/github-contribution-grid-snake.svg">
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/muzhidong/muzhidong/output/github-contribution-grid-snake.svg" />
+</picture>
