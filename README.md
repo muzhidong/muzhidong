@@ -15,11 +15,11 @@
 - [组件项目](https://github.com/muzhidong/lib-components)
 
 
-<!-- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzhidong&show_icons=true&theme=github_dark&hide=prs&count_private=true&locale=cn" />
+<div>
+  <img align="center" src="https://github-readme-stats.muzhidong.vercel.app/api?username=muzhidong&show_icons=true&theme=github_dark&hide=prs&count_private=true&locale=cn" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzhidong&theme=github_dark&locale=cn&layout=compact" />
-</div> -->
+  <img align="center" src="https://github-readme-stats.muzhidong.vercel.app/api/top-langs/?username=muzhidong&theme=github_dark&locale=cn&layout=compact" />
+</div>
 
 
 <picture>
