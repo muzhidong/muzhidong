@@ -55,7 +55,7 @@
 </picture>
 
 
-#### 主页访问数与国家来源
+#### 主页访问者与国家来源
 <picture>
   <img src="https://count.getloli.com/@muzhidong?name=muzhidong&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </picture>
